@@ -1,0 +1,145 @@
+*{
+  padding: 0;
+  margin: 0;
+  color: white;
+}
+
+header{
+  background-image: url("imgs/IMG_2141.JPG");
+  background-size: cover;
+  background-attachment: fixed;
+  height: 700px;
+}
+
+header h1{
+  padding: 250px 0;
+  text-align: center;
+  font-size: 100px;
+  font-family: Book Antiqua;
+  /* font-family: Century; */
+  /* font-family: Palatino Linotype; */
+}
+
+.nav-name{
+  font-family: Palatino Linotype;
+}
+
+
+.profile h2{
+  text-align: center;
+  font-size: 50px;
+  padding: 100px 0 70px 0;
+}
+
+profile-img{
+  width: 100%;
+  max-width: 100%;
+}
+
+.profile img{
+  border-radius: 50%;
+}
+
+.profile{
+  background-image: url("imgs/fix-bg.jpg");
+  background-attachment: fixed;
+}
+
+.profile p{
+  font-family: serif;
+  /* background-color: turquoise; */
+}
+
+.profile .row{
+  padding: 0 0 50px 0;
+}
+
+.service-list h2{
+  padding-bottom: 150px;
+  font-size: 60px;
+}
+
+.carousel-item{
+  height: 500px;
+}
+
+.works{
+  background-color:black;
+  height: 650px;
+  text-align: center;
+}
+
+.works p{
+  padding: 150px 0;
+  font-size: 20px;
+}
+
+.works h5{
+  padding-top: 150px;
+  font-size: 50px;
+}
+
+.contact-form{
+  text-align: center;
+  background-image: url("imgs/fix-bg.jpg");
+  background-attachment: fixed;
+}
+
+.contact-text{
+  padding: 150px 0  0;
+}
+
+.contact-text p{
+  font-size: 20px;
+}
+
+.fab{
+  padding-top:40px;
+}
+
+.contact-link{
+  padding-bottom: 100px;
+}
+
+.contact-link a{
+  font-size: 20px;
+  color: #aaa;
+}
+
+.contact-link a:hover{
+  text-decoration: none;
+  color: white;
+} 
+
+footer{
+  text-align: center;
+  background-color:#333;
+}
+
+footer ul {
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+
+footer ul li{
+  display: inline;
+  padding-left: 40px;
+}
+
+footer ul li a{
+  font-size: 25px;
+  color:#aaa;
+}
+
+footer ul li a:hover{
+  color: white;
+  text-decoration: none;
+}
+
+footer p{
+  padding-bottom: 30px;
+  color: gray;
+  font-size: 15px;
+}
+
+
